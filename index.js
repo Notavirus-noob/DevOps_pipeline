@@ -1,2 +1,10 @@
-console.log('Hello, DevOps!');
-console.log("I'm learning how to deploy applications with DevOps practices.");
+<html>
+<head>
+    <title>My Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Page</h1>
+    <p>This is a simple web page created using HTML.</p>
+</body>
+
+</html>
